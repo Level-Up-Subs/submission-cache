@@ -1,4 +1,4 @@
-# submission-cache
+# sub-cache
 Cached PSA grades and images
 
 ## Structure
